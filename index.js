@@ -1,4 +1,5 @@
 // add solution here
+
 function theBeatlesPlay(musicians, instruments)
 {
   const array = []
@@ -12,7 +13,7 @@ function theBeatlesPlay(musicians, instruments)
 }
 
 
-  /* -----------------------------------------------------------  */
+/* -----------------------------------------------------------  */
 function johnLennonFacts(facts)
 {
   const exclamationFacts = []
