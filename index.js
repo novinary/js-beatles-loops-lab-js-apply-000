@@ -29,18 +29,18 @@ function johnLennonFacts(facts)
   }
   
   -----------------------------------------------------------
-  function iLoveTheBeatles(i)
+  function iLoveTheBeatles(Number)
   {
     const array = []
     
     do 
     {
       arr.push('I love the Beatles!')
-      i++
+      n++
     }
-    while(i < 15)
+    while(n < 15)
     
-    return i
+    return array
     
   }
   
