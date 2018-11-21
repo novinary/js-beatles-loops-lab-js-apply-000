@@ -29,7 +29,7 @@ function johnLennonFacts(facts)
   }
   
   -----------------------------------------------------------
-  function iLoveTheBeatles(Number)
+  function iLoveTheBeatles(n)
   {
     const array = []
     
