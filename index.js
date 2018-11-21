@@ -1,6 +1,6 @@
 // add solution here
 
-/* -----------------------------------------------------------  */
+/* --------------------------- theBeatlesPlay --------------------------------  */
 
 function theBeatlesPlay(musicians, instruments)
 {
@@ -15,7 +15,7 @@ function theBeatlesPlay(musicians, instruments)
 }
 
 
-/* -----------------------------------------------------------  */
+/* ---------------------------- johnLennonFacts -------------------------------  */
 function johnLennonFacts(facts)
 {
   const exclamationFacts = []
@@ -34,7 +34,7 @@ function johnLennonFacts(facts)
   }
   
  
-/* -----------------------------------------------------------  */
+/* ---------------------------  iLoveTheBeatles --------------------------------  */
   function iLoveTheBeatles(n)
   {
     const array = []
