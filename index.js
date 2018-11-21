@@ -10,7 +10,7 @@ function theBeatlesPlay(musicians, instruments)
     
    return array
 }
------------------------------------------------------------
+  /* -----------------------------------------------------------  */
 function johnLennonFacts(facts)
 {
   const exclamationFacts = []
@@ -28,7 +28,7 @@ function johnLennonFacts(facts)
   return exclamationFacts
   }
   
-  -----------------------------------------------------------
+  /* -----------------------------------------------------------  */
   function iLoveTheBeatles(n)
   {
     const array = []
