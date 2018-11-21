@@ -1,7 +1,12 @@
 // add solution here
-function theBeatlePlay(musicians, instruments)
+function theBeatlePlay(music, instr)
 {
   const arr = []
   
-  for (let i = 0, l = musicians)
+  for (let i = 0, l = music.Length; i < l; i++)
+  {
+    
+    return arr
+    
+  }
 }
