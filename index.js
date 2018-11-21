@@ -33,7 +33,8 @@ function johnLennonFacts(facts)
   return exclamationFacts
   }
   
-  /* -----------------------------------------------------------  */
+ 
+/* -----------------------------------------------------------  */
   function iLoveTheBeatles(n)
   {
     const array = []
