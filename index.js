@@ -20,8 +20,10 @@ function johnLennonFacts(facts)
   while (i < facts.length)
   {
     
-    exclamationFacts.push()
+    exclamationFacts.push(`${facts[i]}!!!`)
+    
+    i++
   }
   
-  
-}
+  return exclamationFacts
+  }
